@@ -1,0 +1,14 @@
+{
+  "name": "Kaku",
+  "version": "1.0.0",
+  "description": "The next generation music client",
+  "main": "bootup.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-electron": "0.0.7"
+  }
+}
